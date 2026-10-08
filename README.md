@@ -12,11 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- <p align="center"> -->
+<!--   <picture> -->
+<!--     <source media="(prefers-color-scheme: dark)"  srcset="assets/genome_banner_dark.svg"> -->
+<!--     <source media="(prefers-color-scheme: light)" srcset="assets/genome_banner_light.svg"> -->
+<!--     <img src="assets/genome_banner_dark.svg" -->
+<!--          alt="Sequencing reads assembled into contigs, scaffolds and chromosomes; RNA-seq reads mapped to a locus; a gene model, spliced mRNA and a translated, folded protein" -->
+<!--          width="100%"> -->
+<!--   </picture> -->
+<!-- </p> -->
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="assets/genome_banner_dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/genome_banner_light.svg">
-    <img src="assets/genome_banner_dark.svg"
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/genome_banner_dark.webp">
+    <source media="(prefers-color-scheme: light)" srcset="assets/genome_banner_light.webp">
+    <img src="assets/genome_banner_dark.webp"
          alt="Sequencing reads assembled into contigs, scaffolds and chromosomes; RNA-seq reads mapped to a locus; a gene model, spliced mRNA and a translated, folded protein"
          width="100%">
   </picture>
